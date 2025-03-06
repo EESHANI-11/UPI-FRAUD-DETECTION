@@ -2,7 +2,6 @@
 
 ### An AI-powered fraud detection app using **XGBoost & Streamlit**.
 
-![UPI Fraud Detection App](https://your-image-link.com)  <!-- Replace with actual image URL -->
 
 ## 📌 Overview
 This **UPI Transaction Fraud Detector** helps users determine whether a UPI transaction is **fraudulent** or **safe** based on transaction details like **amount, payment gateway, transaction type, and location**.
@@ -65,7 +64,7 @@ Want to contribute? Feel free to fork this repository and submit a pull request!
 ## 📜 **License**
 This project is licensed under the MIT License.
 
-### 🔗**Live App:Click Here**
+### 🔗**Live App:(https://upi-fraud-detection-eeshani.streamlit.app/)**
 
 
 ## 📧 **Contact: jhaeeshani@gmail.com**
