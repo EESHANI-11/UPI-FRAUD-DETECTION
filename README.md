@@ -31,17 +31,17 @@ This **UPI Transaction Fraud Detector** helps users determine whether a UPI tran
 git clone https://github.com/YOUR_GITHUB_USERNAME/UPI-Fraud-Detection.git
 cd UPI-Fraud-Detection
 ```
-###2️⃣ **Set Up Virtual Environment (Optional)**
+### 2️⃣ **Set Up Virtual Environment (Optional)**
 ```bash
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
 ```
-###3️⃣**Install Dependencies**
+### 3️⃣**Install Dependencies**
 ```bash
 pip install -r requirements.txt
 ```
-###4️⃣**Run the App**
+### 4️⃣ **Run the App**
 ```bash
 streamlit run app.py
 ```
@@ -53,20 +53,20 @@ streamlit run app.py
 3️⃣ Select your repository and deploy 🎉
 
 
-##📂 **Sample CSV Format**
+## 📂 **Sample CSV Format**
 ```csv
 amount,Year,Month,Transaction_Type,Payment_Gateway,Transaction_State,Merchant_Category
 2500,2024,3,Bill Payment,Google Pay,West Bengal,Purchases
 50000,2023,7,Investment,UPI Pay,Bihar,Financial services and Taxes
 ```
-##🤝 **Contributing**
+## 🤝 **Contributing**
 Want to contribute? Feel free to fork this repository and submit a pull request!
 
-##📜 **License**
+## 📜 **License**
 This project is licensed under the MIT License.
 
-###🔗**Live App:Click Here**
+### 🔗**Live App:Click Here**
 
 
-##📧 **Contact: jhaeeshani@gmail.com**
+## 📧 **Contact: jhaeeshani@gmail.com**
 
